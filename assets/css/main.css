@@ -1,0 +1,21 @@
+body {
+    background-image: url("../images/matrix.jpg");
+}
+footer {width: 100%;
+    background-color: #343a40;
+}
+.content{
+    color:greenyellow;
+    background-color: black;
+    border-radius: 25px;
+    margin-top: 25px
+}
+.carousel-caption{
+    color: greenyellow;
+}
+#RedP{
+    color:red;
+}
+#BlueP{
+    color:blue;
+}
