@@ -1,6 +1,3 @@
-# Week2-Homework Online Repository  
-Three Separate Pages linked together in a responsive navbar: Bio, Portfoilio, & Contact Me
-
 # First Responsive Portfolio
 [![License](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://opensource.org/licenses/Unlicense)
 
@@ -16,7 +13,7 @@ Three Separate Pages linked together in a responsive navbar: Bio, Portfoilio, & 
 > - [Questions](#Questions)
 
 ## Description
->Responsive web portfolio built with Javascript, CSS, HTML5, and Bootstrap
+>Responsive web portfolio built with Javascript, CSS, HTML5, and Bootstrap. Three separate pages linked together in a navbar.
 
 ## Keywords
 >*Javascript, CSS, Bootstrap, Portfolio*
