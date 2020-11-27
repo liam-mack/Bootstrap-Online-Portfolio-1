@@ -1,15 +1,48 @@
-# Week2-Homework Online Repository
+# Week2-Homework Online Repository - Three Separate Pages linked together in a responsive navbar: Bio, Portfoilio, & Contact Me
 
-Three Separate Pages linked together in a responsive navbar: Bio, Portfoilio, & Contact Me
+# First Responsive Portfolio
+[![License](https://img.shields.io/badge/License-Unlicense-blue.svg)](https://opensource.org/licenses/Unlicense)
 
-### Bio
-* Brief description of the website creator (me), and my intentions for the website 
-* Includes an image made responsive with the img-fluid class
-* Like the other two pages, also includes a sticky footer (although this is emphasized more on portfolio.html)
+## Table of Contents
+> - [Description](#Description)
+> - [Keywords](#Keywords)
+> - [Contributors](#Contributors)
+> - [Usage](#Usage)
+> - [Installation](#Installation)
+> - [Test](#Testing)
+> - [License](#License)
+> - [Deployment](#Deployment)
+> - [Questions](#Questions)
 
-### Portfolio
-* Includes a responsive Carousel container housing images that serve as links to previous work
-    * I favoured this approach over rows/columns as it is easily scaled for future additions, and helped familiarize with other Bootstrap components
+## Description
+>Responsive web portfolio built with Javascript, CSS, HTML5, and Bootstrap
 
-### Contact Me
-* Simple Contact Form, customized to match the overall theme of the website
+## Keywords
+>*Javascript, CSS, Bootstrap, Portfolio*
+
+## Contributors
+>Liam Mackinnon
+
+## Usage 
+>Github deployment (see attached link)
+
+## Installation
+>*npm i*
+
+## Testing
+>
+
+## License
+>Unlicense
+
+## Deployment
+Live Recording?: No  
+
+Screenshot?: Yes
+![](images/Deployed.png)
+
+### Questions
+>If you have any further questions about the application:
+>Email: lmackinnon.inbox@gmail.com
+>
+>GitHub: www.github.com/liam-mack
